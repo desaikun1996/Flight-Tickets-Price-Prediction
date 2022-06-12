@@ -1,2 +1,2 @@
 # Flight Tickets Price Prediction
- Understanding and analysing the flight ticket dataset and performing data cleaning, EDA, visualization and modelling for predicting the flight prices
+ Performed EDA on the raw dataset including steps like data cleaning, feature engineering, and feature selection. Implemented label encoding to refine data and improve prediction accuracy. Visualized data using bar plot, and heatmap. Verified the accuracy of several regression algorithms, like Linear Regression, Random Forest Regression, and KNN using spot-checking. Prediction made using Random Forest algorithm, achieving an accuracy of 83%.
